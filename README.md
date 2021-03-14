@@ -1,31 +1,45 @@
-# Adonis fullstack application
+# AdonisVue
+<a href="https://github.com/YahyaHosainy/AdonisVue">AdonisVue</a> is an starter for single page web application using javascript in both back-end and front-end with <a href="https://adonisjs.com/">AdonisJs</a> and <a href="https://v3.vuejs.org/">Vue</a>.
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+<a href="https://adonisjs.com/">AdonisJs</a> is a Node.js web framework with a breath of fresh air and drizzle of elegant syntax on top of it.
 
-1. Bodyparser
-2. Session
-3. Authentication
-4. Web security middleware
-5. CORS
-6. Edge template engine
-7. Lucid ORM
-8. Migrations and seeds
+<a href="https://v3.vuejs.org/">Vue</a> (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.
 
-## Setup
+:exclamation: For using AdonisVue you must already familiar with <a href="https://v3.vuejs.org/">Vue Js</a> and <a href="https://adonisjs.com/">Adonis Js</a>
 
-Use the adonis command to install the blueprint
-
+## Installation
 ```bash
-adonis new yardstick
+$ git clone https://github.com/YahyaHosainy/AdonisVue
+$ cd AdonisVue
+$ npm install
+$ npm start
 ```
 
-or manually clone the repo and then run `npm install`.
+## Development serve
 
+### If you don't already installed adonis cli
+```
+npm i -g @adonisjs/cli
+```
+### Run dev server
+```bash
+adonis serve --dev
+```
 
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
+## For front end
+### For development
+```bash
+$ npm run dev
+```
+### Watch files for change
+```bash
+$ npm run watch
+```
+### And for production
+```bash
+$ npm run prod
+```
+or
+```bash
+$ npm run production
 ```
