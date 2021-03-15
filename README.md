@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/YahyaHosainy/AdonisVue/main/adonis-vue-logo.png" width="250"></img>
 
-# AdonisVue
+# AdonisVue => Adonis 4 , Vue 3
 
 <a href="https://github.com/YahyaHosainy/AdonisVue">AdonisVue</a> is an starter for single page web application using javascript in both back-end and front-end with <a href="https://adonisjs.com/">AdonisJs</a> and <a href="https://v3.vuejs.org/">Vue</a>.
 
@@ -15,6 +15,7 @@
 $ git clone https://github.com/YahyaHosainy/AdonisVue
 $ cd AdonisVue
 $ npm install
+$ cp .env.example .env
 $ npm start
 ```
 
