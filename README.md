@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YahyaHosainy/AdonisVue/main/adonis-vue-logo.png" width="250"></img>
+<img src="https://raw.githubusercontent.com/YahyaHosainy/AdonisVue/main/adonis-vue-logo.png" width="250"/>
 
 # AdonisVue => Adonis 4 , Vue 3
 
