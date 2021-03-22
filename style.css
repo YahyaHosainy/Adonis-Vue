@@ -1,0 +1,26 @@
+img {
+  max-width: 100% ;
+}
+
+.logo {
+  display: block;
+  max-width: 200px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+.header , .footer {
+  overflow: auto ;
+  background-color: rgba(66, 185, 131) ;
+  background-color: rgb(34, 0, 82) ;
+  background-color: rgb(100, 185, 213) ;
+}
+
+.header h1 {
+  color: black
+}
+
+.footer {
+  text-align: center;
+  font-size: 10pt ;
+}
